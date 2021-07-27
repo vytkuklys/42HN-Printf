@@ -1,13 +1,14 @@
-# 42HN-Printf
+# 42HN-Get_next_line
 
-:rocket: 42 Heilbronn project - ft_printf<br />
+:rocket: 42 Heilbronn project - get_next_line<br />
 <br />
 :dart: Goal: <br />
-  ~ Recreate printf function with the following specifiers: %c, %d, %i, %u, %s, %x, %X, %p and %%<br />
+  ~ Return a single line read from a file descriptor while given a dynamic buffer size<br />
 <br />
 :medal_sports: Targeted competences: <br />
-  ~ dealing with variadic functions<br />
-  ~ typecasting <br />
-  ~ convertion of decimal to hexadecimal values<br />
-  ~ working with Unit tests<br />
-  ~ writing of a Makefile
+  ~ Application of dynamic memory allocation<br />
+  ~ Dealing with memory leaks and segmentation fauls<br />
+  ~ Working with static variables <br />
+<br />
+Additional competences: <br />
+  ~ Debugging in Visual Studio Code
