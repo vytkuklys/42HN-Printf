@@ -10,5 +10,5 @@
   ~ Dealing with memory leaks and segmentation fauls<br />
   ~ Working with static variables <br />
 <br />
-Additional competences: <br />
+:2nd_place_medal:Additional competences: <br />
   ~ Debugging in Visual Studio Code
